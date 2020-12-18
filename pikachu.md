@@ -126,3 +126,7 @@ Inne przeglądarki:
   </body>
 </html>
 ```
+
+## Informacje dodatkowe
+
+Źródło obrazka: <https://pixy.org/1088380/>
